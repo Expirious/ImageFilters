@@ -1,0 +1,32 @@
+C:\Users\HP-Laptop\C#\Desktop\Image Color Filters\bin\Debug\Image Color Filters.exe.config
+C:\Users\HP-Laptop\C#\Desktop\Image Color Filters\bin\Debug\Image Color Filters.exe
+C:\Users\HP-Laptop\C#\Desktop\Image Color Filters\bin\Debug\Image Color Filters.pdb
+C:\Users\HP-Laptop\C#\Desktop\Image Color Filters\obj\Debug\Image Color Filters.csproj.AssemblyReference.cache
+C:\Users\HP-Laptop\C#\Desktop\Image Color Filters\obj\Debug\Image_Color_Filters.Properties.Resources.resources
+C:\Users\HP-Laptop\C#\Desktop\Image Color Filters\obj\Debug\Image Color Filters.csproj.GenerateResource.cache
+C:\Users\HP-Laptop\C#\Desktop\Image Color Filters\obj\Debug\Image Color Filters.csproj.CoreCompileInputs.cache
+C:\Users\HP-Laptop\C#\Desktop\Image Color Filters\obj\Debug\Image Color Filters.exe
+C:\Users\HP-Laptop\C#\Desktop\Image Color Filters\obj\Debug\Image Color Filters.pdb
+C:\Users\HP-Laptop\C#\Desktop\Image Color Filters\obj\Debug\Image_Color_Filters.Form1.resources
+C:\Users\HP-Laptop\Downloads\Step_1\Image Color Filters\bin\Debug\Image Color Filters.exe.config
+C:\Users\HP-Laptop\Downloads\Step_1\Image Color Filters\bin\Debug\Image Color Filters.exe
+C:\Users\HP-Laptop\Downloads\Step_1\Image Color Filters\bin\Debug\Image Color Filters.pdb
+C:\Users\HP-Laptop\Downloads\Step_1\Image Color Filters\obj\Debug\Image Color Filters.csproj.AssemblyReference.cache
+C:\Users\HP-Laptop\Downloads\Step_1\Image Color Filters\obj\Debug\Image Color Filters.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP-Laptop\Downloads\Step_1\Image Color Filters\obj\Debug\Image_Color_Filters.Form1.resources
+C:\Users\HP-Laptop\Downloads\Step_1\Image Color Filters\obj\Debug\Image_Color_Filters.Properties.Resources.resources
+C:\Users\HP-Laptop\Downloads\Step_1\Image Color Filters\obj\Debug\Image Color Filters.csproj.GenerateResource.cache
+C:\Users\HP-Laptop\Downloads\Step_1\Image Color Filters\obj\Debug\Image Color Filters.csproj.CoreCompileInputs.cache
+C:\Users\HP-Laptop\Downloads\Step_1\Image Color Filters\obj\Debug\Image Color Filters.exe
+C:\Users\HP-Laptop\Downloads\Step_1\Image Color Filters\obj\Debug\Image Color Filters.pdb
+C:\Users\froly\Downloads\Image Color Filters\bin\Debug\Image Color Filters.exe.config
+C:\Users\froly\Downloads\Image Color Filters\bin\Debug\Image Color Filters.exe
+C:\Users\froly\Downloads\Image Color Filters\bin\Debug\Image Color Filters.pdb
+C:\Users\froly\Downloads\Image Color Filters\obj\Debug\Image Color Filters.csproj.AssemblyReference.cache
+C:\Users\froly\Downloads\Image Color Filters\obj\Debug\Image Color Filters.csproj.SuggestedBindingRedirects.cache
+C:\Users\froly\Downloads\Image Color Filters\obj\Debug\Image_Color_Filters.Form1.resources
+C:\Users\froly\Downloads\Image Color Filters\obj\Debug\Image_Color_Filters.Properties.Resources.resources
+C:\Users\froly\Downloads\Image Color Filters\obj\Debug\Image Color Filters.csproj.GenerateResource.cache
+C:\Users\froly\Downloads\Image Color Filters\obj\Debug\Image Color Filters.csproj.CoreCompileInputs.cache
+C:\Users\froly\Downloads\Image Color Filters\obj\Debug\Image Color Filters.exe
+C:\Users\froly\Downloads\Image Color Filters\obj\Debug\Image Color Filters.pdb
